@@ -9,6 +9,8 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+// No fue posible ejecutar esta app que inicia tod, por problemas con el módulo y las rutas :´{
+
 public class App extends Application {
     @Override
     public void start (Stage primaryStage) throws IOException {
